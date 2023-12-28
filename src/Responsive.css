@@ -1,0 +1,37 @@
+/* Home page  */
+
+
+@media only screen and (max-width: 448px){
+    .home-right {
+        display: none;
+    }
+
+    .home_sec {
+        margin-top: 2rem;
+        margin-bottom: 4rem;
+    }
+}
+
+
+
+@media only screen and (max-width: 768px){
+    .navbar .navbar-brand{
+        font-size: 20px;
+    }
+
+    .navbar .navbar-brand img {
+        width: 38px;
+    }
+
+    .navbar-toggler-icon{
+        display: inline-block;
+        width: 1.3em;
+        height: 1.3em;
+    }
+
+    .home-right {
+        display: none;
+    }
+
+}
+ 

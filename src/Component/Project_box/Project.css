@@ -1,0 +1,48 @@
+.Project_box img {
+    /* border: 1px solid #cbc5c5; */
+}
+
+
+.Project_box p {
+    margin-bottom: 0;
+}
+
+
+
+.Project_box p.Project_name {
+    font-size: 25px;
+    line-height: 2;
+    font-weight: 700;
+}
+
+.Project_box .Project_description {
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.Project_box p.SeeLive a {
+    font-size: 14px;
+    font-weight: 500;
+    color: #222;
+    text-decoration: none;
+}
+
+.Project_box {
+    border-radius: 12px;
+    border: 1px solid #eee;
+    transition: all 0.5s ease-in-out;
+    overflow: hidden;
+}
+
+.Project_box .ProjectBox_content {
+    padding: 25px;
+}
+
+.Project_box:hover {
+    border: navajowhite;
+    box-shadow: 1px 1px 10px 5px #eee;
+}
+
+p.SeeLive:hover a {
+    color: #173db9;
+}

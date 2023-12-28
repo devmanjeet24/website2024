@@ -1,0 +1,70 @@
+[
+    {
+        "id": "1",
+        "Image": "images/AugustCollective.png",
+        "ImageAlt": "DataImage",
+        "ProjectUrl": "https://www.augustcollectives.com/",
+        "Projectname": "August Collective",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Tech": {
+            "html": true,
+            "css": true,
+            "javascript": true
+        },
+        "See": "See Live"
+    },
+    
+    {
+        "id": "2",
+        "Image": "images/chaipani.png",
+        "ImageAlt": "DataImage",
+        "ProjectUrl": "https://www.chaipanistreetary.com/",
+        "Projectname": "Chaipani",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Tech": "Html Css Javascript",
+        "See": "See Live"
+    },
+
+    {
+        "id": "3",
+        "Image": "images/Goldennetwork.png",
+        "ImageAlt": "DataImage",
+        "ProjectUrl": "https://goldnetwork.in/",
+        "Projectname": "Golden Network",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Tech": "Html Css Javascript",
+        "See": "See Live"
+    },
+
+    {
+        "id": "4",
+        "Image": "images/liqour4juction.png",
+        "ImageAlt": "DataImage",
+        "ProjectUrl": "https://www.liquorjunction4.com/",
+        "Projectname": "Liquor Juction",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Tech": "Html Css Javascript",
+        "See": "See Live"
+    },
+
+    {
+        "id": "5",
+        "Image": "images/qualityfamilydentistry.png",
+        "ImageAlt": "DataImage",
+        "ProjectUrl": "https://www.qualityfamilydentist.com/",
+        "Projectname": "Quality Family Dentist",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Tech": "Html Css Javascript",
+        "See": "See Live"
+    },
+    {
+        "id": "6",
+        "Image": "images/wemsfoundation.png",
+        "ImageAlt": "DataImage",
+        "ProjectUrl": "https://www.wemsfoundation.com/",
+        "Projectname": "WEMS Foundation",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Tech": "Html Css Javascript",
+        "See": "See Live"
+    }
+]
